@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C64C303-9603-4124-970A-633E4708044E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TBFaceMorpher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37526DA425E5430474A14FBFA1BC4525160B5FC1</key>
+		<string>https://github.com/kylemcdonald/ofxCv.git</string>
+		<key>A4D0373C699384D3146D509694B516AB9C7B5AD6</key>
+		<string>https://github.com/kylemcdonald/ofxFaceTracker.git</string>
+		<key>EAE70822AE67B862960F787FD50E3B6E1C12F4FE</key>
+		<string>https://github.com/Ssawa/Tattered.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_v0.8.4_ios_release/apps/myApps/TBFaceMorpher/TBFaceMorpher.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37526DA425E5430474A14FBFA1BC4525160B5FC1</key>
+		<string>../../../../../..of_v0.8.4_ios_release/addons/ofxCv</string>
+		<key>A4D0373C699384D3146D509694B516AB9C7B5AD6</key>
+		<string>../../../../../..of_v0.8.4_ios_release/addons/ofxFaceTracker</string>
+		<key>EAE70822AE67B862960F787FD50E3B6E1C12F4FE</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ssawa/Tattered.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAE70822AE67B862960F787FD50E3B6E1C12F4FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37526DA425E5430474A14FBFA1BC4525160B5FC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxCv</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A4D0373C699384D3146D509694B516AB9C7B5AD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxFaceTracker</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAE70822AE67B862960F787FD50E3B6E1C12F4FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tattered</string>
+		</dict>
+	</array>
+</dict>
+</plist>
